@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Pilot Training
+
+This project is a "Pilot Training" application that helps users learn to fly with AI.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
