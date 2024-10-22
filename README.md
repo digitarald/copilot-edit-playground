@@ -2,6 +2,16 @@
 
 This project is a "Pilot Training" application that helps users learn to fly with AI.
 
+## Pilot Training Tasks
+
+Ideas try out for different Copilot-powered development tasks:
+
+- Create a sign-up form with multiple steps and validation
+- Create a AI pilot quiz based on hard-coded questions, with a scoring page (add confetti)
+- Show current wind conditions for the user's location
+- Write tests for all those features
+- Add GitHub Models for some AI magic, which is hard as this app doesn't have a server yet
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
