@@ -1,57 +1,62 @@
-# Pilot Training
+# 🛫 Pilot Training
 
 This project is a "Pilot Training" application that helps users learn to fly with AI.
 
-## Pilot Training Tasks
+## ✈️ Pilot Training Tasks
 
-Ideas try out for different Copilot-powered development tasks:
+Ideas to try out for different Copilot-powered development tasks:
 
-- Create a sign-up form with multiple steps and validation
-- Create a AI pilot quiz based on hard-coded questions, with a scoring page (add confetti)
-- Show current wind conditions for the user's location
-- Write tests for all those features
-- Add GitHub Models for some AI magic, which is hard as this app doesn't have a server yet
+- 📝 Create a sign-up form with multiple steps and validation
+- 🧠 Create an pilot quiz based on hard-coded questions, with a scoring page (add confetti)
+- 🌬️ Show current wind conditions for the user's location
+- ✅ Write tests for all those features
+- 🤖 Add GitHub Models for some AI magic, which is hard as this app doesn't have a server yet
 
-## Getting Started with Create React App
+## Getting Started
+
+To run the application locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-repo/pilot-training.git
+    cd pilot-training
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+    ```bash
+    npm start
+    ```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
+
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### `npm test`
 
-### `npm test`
+Launches the test runner in the interactive watch mode.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### `npm run build`
 
-### `npm run build`
+Builds the app for production to the `build` folder.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
+#### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
